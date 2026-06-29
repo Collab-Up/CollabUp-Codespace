@@ -8,7 +8,7 @@ CollabUp is a full-stack web application that facilitates student collaboration 
 
 ### Core Features
 
-- **Student Projects**: Upload and collaborate on academic projects
+- **Student Projects**: Upload and collaborate on academic project
 - **Startup Projects**: Enroll in industry projects and earn certifications
 - **Mentorship**: Connect with experienced mentors for guidance
 - **Research Projects**: Work with faculty on cutting-edge research
