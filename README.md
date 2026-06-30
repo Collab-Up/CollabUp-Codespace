@@ -6,6 +6,9 @@ A comprehensive platform designed to help students connect, collaborate, and gro
 
 CollabUp is a full-stack web application that facilitates student collaboration across various domains:
 
+<img width="1919" height="1002" alt="image" src="https://github.com/user-attachments/assets/4cf32e43-729f-4c22-a0a4-2741e9db2cea" />
+
+
 ### Core Features
 
 - **Student Projects**: Upload and collaborate on academic project
